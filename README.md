@@ -112,7 +112,8 @@ Now let's start learning how to upload HTML and CSS files in the next section!
 # STEP 4
 
 Now I am assuming that you have created your webpage And It is Ready to publish On github
-And These are look like this:-
+
+And These Files are look like this:-
 
 # <img width="957" alt="sample" src="https://user-images.githubusercontent.com/51431920/113982315-3f3d4c00-9866-11eb-90c7-25a0fc30950f.png">
 
