@@ -7,6 +7,7 @@ Linked In - **https://www.linkedin.com/in/veeresh-soni/**
 
 While developing a website I have a thought in my mind that how can i publish it freely in the internet because it is not soo.. cheap to publish a website in the internet
 So Here is the full guide---
+
 I have Devided The guide In few steps So, It would be Easy for anyone to follow these steps
 
 # Before You Begin
@@ -35,3 +36,12 @@ It may sound difficult to publish your own webpage online, but don't worry, we'l
 Let's get started!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# STEP 2
+
+First, make a free account on GitHub:
+
+https://github.com/
+If you already have a GitHub account
+Log in to GitHub and then you can skip this section and move to the next one (Creating a New Repository).
+After creating an account, you should see a page like this:
