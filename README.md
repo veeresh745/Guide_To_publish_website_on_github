@@ -57,6 +57,8 @@ Tip: 1. The username you entered will later be a part of the URL of the website 
 The free plan is enough for this tutorial. Click the green button Continue once you make sure you checked Free plan like the image.
 After this you will see a page for the survey, but you can just click the green button at the very bottom without answering it.
 You should see a page like the image below. If you do, you've successfully created your GitHub account. Well done.
-![did it]
-(https://user-images.githubusercontent.com/51431920/113977399-2893f680-9860-11eb-8649-589c32463189.png)
+![did it](https://user-images.githubusercontent.com/51431920/113977399-2893f680-9860-11eb-8649-589c32463189.png)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
