@@ -81,3 +81,46 @@ The URL for your page will be: https://username.github.io
 Otherwise,
 
 The URL for your page will be: https://username.github.io/repositoryname
+
+So, if your username is veeresh745,
+
+and your repository name is veeresh745.github.io then the URL will be veeresh745.github.io.
+If your repository name is first_web then the URL would be veeresh745.github.io/first_web.
+
+If there's no problem, then let's create a repository with username.github.io (*you can always change the repository name later).
+
+<img width="960" alt="repo creation2" src="https://user-images.githubusercontent.com/51431920/113979235-9b9e6c80-9862-11eb-8f56-b9a6c58b101e.png">
+
+Note:- 1.You Can Add Readme.md Files
+       2. And A licence you want 
+       3. For More Info On licence Wisit this site- https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+Once you've entered the repository name, click the green Create repository button.
+
+You've successfully created a repository. On the screen shown, click the link README like the image below:
+
+<img width="946" alt="Readme" src="https://user-images.githubusercontent.com/51431920/113979769-50d12480-9863-11eb-9cd5-f3e01c8bbde2.png">
+
+This "README.md" is a file you use to write a description of the repository.
+You don't need to write anything there for now. To save the added file, click the green Commit new file button at the very bottom of the page.
+
+Now let's start learning how to upload HTML and CSS files in the next section!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# STEP 4
+
+Now I am assuming that you have created your webpage And It is Ready to publish On github
+And These are look like this:-
+
+# <img width="957" alt="sample" src="https://user-images.githubusercontent.com/51431920/113982315-3f3d4c00-9866-11eb-90c7-25a0fc30950f.png">
+
+# Upload HTML/CSS Files
+
+First, let's upload an HTML file called index.html.
+
+Click the Create new file button, as shown in the image below:
+<img width="960" alt="create file" src="https://user-images.githubusercontent.com/51431920/113983089-297c5680-9867-11eb-8f80-0f65f706f2de.png">
+
+
+
+
