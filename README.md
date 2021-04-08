@@ -1,4 +1,4 @@
-# Guide_To_publish_website_on_git
+# Guide_To_publish_website_on_git-hub
 How To publish Your First web-site On Git-hub
 Author- Veeresh Soni
 Linked In - **https://www.linkedin.com/in/veeresh-soni/**
@@ -59,6 +59,9 @@ After this you will see a page for the survey, but you can just click the green 
 You should see a page like the image below. If you do, you've successfully created your GitHub account. Well done.
 ![did it](https://user-images.githubusercontent.com/51431920/113977399-2893f680-9860-11eb-8649-589c32463189.png)
 
+If you see this page, you did it!
+Check the email you used for this GitHub account to verify your registration.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# STEP 3
 
