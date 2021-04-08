@@ -121,6 +121,79 @@ First, let's upload an HTML file called index.html.
 Click the Create new file button, as shown in the image below:
 <img width="960" alt="create file" src="https://user-images.githubusercontent.com/51431920/113983089-297c5680-9867-11eb-8f80-0f65f706f2de.png">
 
+VERY IMP- 1. Your homepage Name should be index.html
+          2. you should not miss any file while uploadiing
+          3. just drag and drop all the files and it's done.
+
+
+<img width="959" alt="finalising" src="https://user-images.githubusercontent.com/51431920/113984442-ba9ffd00-9868-11eb-9642-047505972ec6.png">
+
+# Now Click ''COMMIT CHANGES'' Then you will see this:- 
+
+<img width="958" alt="commit changes" src="https://user-images.githubusercontent.com/51431920/113984675-f935b780-9868-11eb-95ef-348bc47f0354.png">
+
+You can check the content of each file by clicking the file name to make sure that everything has been uploaded correctly.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# STEP 5
+
+# Publishing your Webpage
+
+Let's publish a webpage with the files you uploaded.
+
+First, click the Settings tab on top right of the screen.
+
+<img width="957" alt="setting" src="https://user-images.githubusercontent.com/51431920/113985156-7c570d80-9869-11eb-911f-500edd8bfa75.png">
+
+You'll find GitHub Pages if you keep scrolling down the page.<img width="957" alt="setting" src="https://user-images.githubusercontent.com/51431920/113985600-f7b8bf00-9869-11eb-9628-892b4f4b8cca.png">
+
+If it says "Your site is published at ..." where the green background is, the webpage is already published with the URL shown here.
+
+If not, Source is probably set as None, so change it to the default branch (master or main depending on when the repository was created) and then click the button Save to display the URL.
+
+This is the end of the procedure to publish your webpage to the internet. Now anybody can access the webpage you made with the URL!
+
+*If nothing is shown when accessing the URL, there is a possibility that the display page is being processed. It may take a while, so try coming back and loading the page later.
+
+<img width="955" alt="publish" src="https://user-images.githubusercontent.com/51431920/113985713-14ed8d80-986a-11eb-9185-716328d0419c.png">
+
+# NOW YOU HAVE SUCCESSFULLY PUBLISHED THE WEB PAGE ON GIT HUB AND YOU HAVE THE LINK TO VISIT.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# STEP 6
+
+# Updating Published Pages
+
+Lastly, let's learn how to update the webpage you published. This GitHub Pages updates not only the code in the file, but it automatically updates the published webpage as well (it may take a few minutes for the changes to take effect).
+
+This time you'll update index.html for practice.
+
+Click the tab Code on the top left of the screen and then click index.html inside of the page shown.
+
+# You'll be able to check the contents of the file. On the same screen, click the pencil icon shown on the top right.
+
+
+<img width="960" alt="very final" src="https://user-images.githubusercontent.com/51431920/113986353-cc829f80-986a-11eb-92b9-b2b91ae19792.png">
+
+On the screen shown, you can edit the code of index.html.
+
+Once you're done editing, save the changes by clicking the green button at the very end Commit changes.
+
+You can also delete the file by clicking the trash can icon that is next to the pencil icon.
+
+This is the end of the tutorial about publishing a webpage by using GitHub.
+
+
+<img width="960" alt="very final 2" src="https://user-images.githubusercontent.com/51431920/113986555-fd62d480-986a-11eb-81ad-a826a0b54451.png">
+
+# THIS IS THE END OF THE TUTORIAL. I HOPE IT HELPED. IF SO.. GO TO THE DISCUSSION BUTTON ON TOP AND SAY HI.. AND YOU YOUR WEB PAGE LINK.
+
+THANKS
+
+REGARDS
+VEERESH SONI
 
 
 
