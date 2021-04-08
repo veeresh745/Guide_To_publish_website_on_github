@@ -45,3 +45,18 @@ https://github.com/
 If you already have a GitHub account
 Log in to GitHub and then you can skip this section and move to the next one (Creating a New Repository).
 After creating an account, you should see a page like this:
+
+<img width="1094" alt="making account" src="https://user-images.githubusercontent.com/51431920/113976563-ee762500-985e-11eb-967c-61a5ac22e5fb.png">
+
+Now enter your username, email, and password in the boxes shown on the right side of the screen and then click the green Sign up for GitHub button.
+
+Tip: 1. The username you entered will later be a part of the URL of the website you'll publish later.
+     2.  If there is no problem with the username or password, the following screen will be displayed.
+![selecting plan](https://user-images.githubusercontent.com/51431920/113976766-2bdab280-985f-11eb-912d-71dddb365708.png)
+
+The free plan is enough for this tutorial. Click the green button Continue once you make sure you checked Free plan like the image.
+After this you will see a page for the survey, but you can just click the green button at the very bottom without answering it.
+You should see a page like the image below. If you do, you've successfully created your GitHub account. Well done.
+![did it]
+(https://user-images.githubusercontent.com/51431920/113977399-2893f680-9860-11eb-8649-589c32463189.png)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
