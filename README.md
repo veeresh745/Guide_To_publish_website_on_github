@@ -74,7 +74,10 @@ Like the image below, click the + (plus sign) icon on the upper-right and select
 <img width="1021" alt="repo creation" src="https://user-images.githubusercontent.com/51431920/113978436-92f96680-9861-11eb-9d2f-a473f236140f.png">
 
 Give the repository a name by entering it in the form labeled Repository name in the middle of the page. The repository name can be anything, but the URL of the webpage will depend on this repository name (*see the explanation below).
+
 If your account name is set to username.github.io:**
+
 The URL for your page will be: https://username.github.io
 Otherwise,
+
 The URL for your page will be: https://username.github.io/repositoryname
