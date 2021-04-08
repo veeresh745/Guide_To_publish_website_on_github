@@ -17,8 +17,8 @@ Basic knowledge of HTML & CSS.
 Completing the HTML & CSS Study I lesson on Progate is enough for this article.
 
 Note:
-Although we'll be using GitHub, previous knowledge of git is not required.
-All the screenshots used in this article were taken on Windows, but this tutorial will also work on Mac as well.
+1. Although we'll be using GitHub, previous knowledge of git is not required.
+2. All the screenshots used in this article were taken on Windows, but this tutorial will also work on Mac as well.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Step 1
