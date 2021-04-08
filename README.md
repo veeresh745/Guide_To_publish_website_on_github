@@ -60,7 +60,9 @@ You should see a page like the image below. If you do, you've successfully creat
 ![did it](https://user-images.githubusercontent.com/51431920/113977399-2893f680-9860-11eb-8649-589c32463189.png)
 
 If you see this page, you did it!
+
 Check the email you used for this GitHub account to verify your registration.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # STEP 3
