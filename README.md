@@ -193,11 +193,6 @@ This is the end of the tutorial about publishing a webpage by using GitHub.
 
 # THIS IS THE END OF THE TUTORIAL. I HOPE IT HELPED. IF SO.. GO TO THE DISCUSSION BUTTON ON TOP AND SAY HI.. AND YOU YOUR WEB PAGE LINK.
 
-THANKS
-
-REGARDS
-
-VEERESH SONI
 
 
 
